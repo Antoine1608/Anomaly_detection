@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/John/Desktop/Anomaly_detection/mlruns/481793539576001193/fbf00881804344cf9ca5cf4f59a8d2a9/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '481793539576001193'
+lifecycle_stage: active
+run_id: fbf00881804344cf9ca5cf4f59a8d2a9
+run_name: Screw_Anomaly
+run_uuid: fbf00881804344cf9ca5cf4f59a8d2a9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1715791541280
+status: 1
+tags: []
+user_id: John

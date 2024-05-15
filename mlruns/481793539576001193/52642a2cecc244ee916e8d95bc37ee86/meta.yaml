@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/John/Desktop/Anomaly_detection/mlruns/481793539576001193/52642a2cecc244ee916e8d95bc37ee86/artifacts
+end_time: 1715791865649
+entry_point_name: ''
+experiment_id: '481793539576001193'
+lifecycle_stage: active
+run_id: 52642a2cecc244ee916e8d95bc37ee86
+run_name: Transfer_Learning
+run_uuid: 52642a2cecc244ee916e8d95bc37ee86
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1715791792754
+status: 3
+tags: []
+user_id: John
